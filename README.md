@@ -36,7 +36,7 @@ const Valentina = {
 &nbsp;
 
 ## You can also find me on...
-<a href="https://https://www.linkedin.com/in/valentina-federica-valcarcell-palma/" target="_blank">
+<a href="https://www.linkedin.com/in/valentina-federica-valcarcell-palma/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
 </a>
 
